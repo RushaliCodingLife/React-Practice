@@ -1,0 +1,35 @@
+.navbar{
+    margin-bottom: -78px;
+}
+
+.nav-text{
+    font-size: 20px;
+}
+
+.card {
+    transition: transform 0.2s ease;
+    box-shadow: 0 10px 25px rgb(39 41 43 / 20%);
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 1.5em;
+  }
+  
+  .card:hover {
+  transform: scale(1.1);
+  }
+
+  .Contaier-text{
+    font-size: 25px;
+  }
+
+
+  .container-Footer{
+    font-size: 1.rem;
+    letter-spacing: 0.2rem;
+  }
+
+  .Product-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgb(39 41 43 / 20%);
+}
